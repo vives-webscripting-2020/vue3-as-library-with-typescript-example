@@ -5,7 +5,7 @@ console.log("hello world...")
 const app = createApp( {
     data() {
         return  {
-            hello: "hello world",
+            hello: "hello world"
         }
     },
 })
