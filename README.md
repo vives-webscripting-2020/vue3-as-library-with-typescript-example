@@ -18,10 +18,10 @@ You can build the code with the following command:
 npm run build
 ```
 
-If you want to play with the code and have automatic recompile using watch functionality, you can use:
+If you want to play with the code and have automatic recompile using webpack-dev-server, you can use:
 
 ```cli
-npm run watch
+npm run dev
 ```
 
-Now use your favorite HTTP server and browse to the website.
+Now use your favorite browser and surf to the website.
