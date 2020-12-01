@@ -9,7 +9,7 @@
     "tsc:watch": "tsc -w",
     "build": "webpack",
     "watch": "webpack --watch",
-    "dev": "webpack serve -- --port 8080"
+    "dev": "webpack serve --port 8080"
   },
   "keywords": [],
   "author": "",
